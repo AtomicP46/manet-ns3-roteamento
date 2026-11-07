@@ -13,7 +13,7 @@ uma Mobile Ad Hoc Network (MANET).
 Disciplina de Redes Móveis, IFG Câmpus Inhumas (Prof. Rogério Sousa e Silva).
 
 - Pedro Henrique Portela de Sousa
-- <!-- ADICIONAR AQUI os demais integrantes do grupo -->
+
 
 Os documentos da entrega (artigo no formato SBC e slides) estão em [`documents/`](documents/).
 
